@@ -1,3 +1,12 @@
+1- Install Dependencies:
+pip install requests colorama
+
+2- Run Code:
+python tiktok_report.py
+
+
+
+
 🚀Get Pro Version
 ✅ Private Proxy Support (SOCKS5/HTTP)
 ✅ Auto-Scrape Proxies from free sources
