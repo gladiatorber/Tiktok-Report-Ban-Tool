@@ -1,38 +1,39 @@
-TikTok Mass Report Ban Tool
+# TikTok Mass Report Ban Tool
 
-Automated reporting for accounts and videos with proxy & multi-account support
+## Automated reporting for accounts and videos with proxy & multi-account support
 
-🚨 Account/Video Reporting - Mass report profiles or individual videos
-🛡️ Anti-Detection - Rotates proxies & accounts to avoid bans
-⚡ Multi-Threading - Simultaneous reports for faster processing
-🎯 Custom Reasons - 7 violation options + random selection
-📂 Cookie/Proxy Support - File-based account and proxy management
+- 🚨 Account/Video Reporting - Mass report profiles or individual videos
+- 🛡️ Anti-Detection - Rotates proxies & accounts to avoid bans
+- ⚡ Multi-Threading - Simultaneous reports for faster processing
+- 🎯 Custom Reasons - 7 violation options + random selection
+- 📂 Cookie/Proxy Support - File-based account and proxy management
 
-Installation:
+## Installation:
 1. Clone this repository
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
-Run the tool:
+## Run the tool:
    ```bash
    python tiktok_report.py
+```
 
-requirements:
-requests==2.31.0
-colorama==0.4.6
+## Requirements:
+- requests==2.31.0
+- colorama==0.4.6
 
 
 
-Inputs Required:
-Target username (without @)
-Reporting reason selection
-Thread count (1-5 recommended)
-Delay between reports (1-10 seconds)
+## Inputs Required:
+- Target username (without @)
+- Reporting reason selection
+- Thread count (1-5 recommended)
+- Delay between reports (1-10 seconds)
 
-Disclaimer:
+## Disclaimer:
 This tool is for educational purposes only. Misuse violates TikTok's Terms of Service. The authors are not responsible for any misuse.
 
-Support:
+## Support:
 For premium features and support:
-Telegram: @vintok666
+- ## Telegram: @vintok666   Link: https://t.me/vintok666
