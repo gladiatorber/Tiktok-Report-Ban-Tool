@@ -1,4 +1,5 @@
 TikTok Mass Report Ban Tool
+
 Automated reporting for accounts and videos with proxy & multi-account support
 
 🚨 Account/Video Reporting - Mass report profiles or individual videos
@@ -14,7 +15,8 @@ Installation:
    pip install -r requirements.txt
 
 Run the tool:
-python tiktok_report.py
+   ```bash
+   python tiktok_report.py
 
 requirements:
 requests==2.31.0
