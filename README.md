@@ -38,3 +38,5 @@ This tool is for educational purposes only. Misuse violates TikTok's Terms of Se
 For premium features and support:
 - ## Telegram: @vintok666
   ## Link: https://t.me/vintok666
+
+  <3
