@@ -39,5 +39,5 @@ For premium features and support:
 - ## Telegram: @vintok666
   ## Link: https://t.me/vintok666
 
-  <3  <3   <3 
+  <3  <3   <3  
  
