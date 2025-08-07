@@ -1,4 +1,4 @@
-# TikTok Mass Report Ban Tool <3
+# TikTok Mass Report Ban Tool <3 .
 
 ## Automated reporting for accounts and videos with proxy & multi-account support
 
@@ -41,6 +41,7 @@ For premium features and support:
 
   <3  <3   
  
+
 
 
 
