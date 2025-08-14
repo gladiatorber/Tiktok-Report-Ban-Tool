@@ -34,6 +34,9 @@
 ## Disclaimer:
 This tool is for educational purposes only. Misuse violates TikTok's Terms of Service. The authors are not responsible for any misuse.
 
+## Get Pro Tool: https://cybertech.sell.app/
+
+
 ## Support:
 For premium features and support:
 - ## Telegram: @vintok666
@@ -41,6 +44,7 @@ For premium features and support:
 
   <3  <3   
  
+
 
 
 
